@@ -1,0 +1,78 @@
+[
+                {
+                    "Name": "vendorid",
+                    "Type": "bigint"
+                },
+                {
+                    "Name": "lpep_pickup_datetime",
+                    "Type": "string"
+                },
+                {
+                    "Name": "lpep_dropoff_datetime",
+                    "Type": "string"
+                },
+                {
+                    "Name": "store_and_fwd_flag",
+                    "Type": "string"
+                },
+                {
+                    "Name": "ratecodeid",
+                    "Type": "bigint"
+                },
+                {
+                    "Name": "pulocationid",
+                    "Type": "bigint"
+                },
+                {
+                    "Name": "dolocationid",
+                    "Type": "bigint"
+                },
+                {
+                    "Name": "passenger_count",
+                    "Type": "bigint"
+                },
+                {
+                    "Name": "trip_distance",
+                    "Type": "double"
+                },
+                {
+                    "Name": "fare_amount",
+                    "Type": "double"
+                },
+                {
+                    "Name": "extra",
+                    "Type": "double"
+                },
+                {
+                    "Name": "mta_tax",
+                    "Type": "double"
+                },
+                {
+                    "Name": "tip_amount",
+                    "Type": "double"
+                },
+                {
+                    "Name": "tolls_amount",
+                    "Type": "double"
+                },
+                {
+                    "Name": "ehail_fee",
+                    "Type": "string"
+                },
+                {
+                    "Name": "improvement_surcharge",
+                    "Type": "double"
+                },
+                {
+                    "Name": "total_amount",
+                    "Type": "double"
+                },
+                {
+                    "Name": "payment_type",
+                    "Type": "bigint"
+                },
+                {
+                    "Name": "trip_type",
+                    "Type": "bigint"
+                }
+]
